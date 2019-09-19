@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Seng8040_Assignment1
+namespace Assignment1_Seng8040
 {
     public class Rectangle
     {
